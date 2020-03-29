@@ -46,7 +46,7 @@ export default {
   border: 1px solid black;
   margin: 5px;
 }
-@media (max-width: 400px) {
+@media (max-width: 600px) {
   .projects-card {
     min-width: 100%;
   }
@@ -65,6 +65,12 @@ export default {
   }
   .para {
     font-size: 0.975rem !important;
+  }
+  .navbar {
+    font-size: 0.8rem;
+  }
+  .button--green {
+    padding: 5px 10px;
   }
 }
 
