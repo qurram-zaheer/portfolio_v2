@@ -37,6 +37,7 @@ html {
   text-decoration: none;
   padding: 10px 30px;
   transition: transform 0.2s 0.1s ease-out;
+  color: black;
 }
 
 .button--green:hover {

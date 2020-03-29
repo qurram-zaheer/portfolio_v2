@@ -33,7 +33,7 @@
           <h2 class="subtitle">About me</h2>
           <p class="para">I love programming!</p>
           <p class="para">
-            My love of code first started with webdev, and I still enjoy trying to make every website make have pixel perfect UI, responsiveness and intuitive functionality.
+            My love of code first started with webdev, and I still enjoy trying to make every website have pixel perfect UI, responsiveness and intuitive functionality.
             I've played around with a bunch of web frameworks/libraries: React, Vue.js (my favorite!) and django, alongwith Node and Express.
           </p>
           <p class="para">

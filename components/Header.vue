@@ -29,7 +29,6 @@ export default {};
   padding: 2px;
   font-family: "Overpass", sans-serif;
   z-index: 2;
-  margin-right: 20px;
   display: flex;
   flex-direction: row-reverse;
 }
